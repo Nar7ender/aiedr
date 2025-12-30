@@ -26,6 +26,15 @@ body {
   flex-direction: column;
 }
 
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: 26px;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+}
+
+
 /* Main container */
 .container {
   max-width: 1120px;
